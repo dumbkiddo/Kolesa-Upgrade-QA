@@ -12,6 +12,6 @@ ____
   - [ ] Github Desktop
   - [ ] Через встроенную среду в Visual Studio Code
 ____
-### Полезные ссылки
+### Дополнительные материалы - ссылки
 - Документация - https://git-scm.com/docs/git
 - Список основных команд для git - https://proglib.io/p/git-cheatsheet

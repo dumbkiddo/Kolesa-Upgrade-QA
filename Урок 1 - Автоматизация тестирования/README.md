@@ -6,7 +6,9 @@
 - ####  Построение тестовой стратегии
 ____
 
-### Задачи
-- [ ] 1
-- [ ] 2
-- [ ] 3
+### Дополнительные материалы - ссылки
+- [Автоматизированное Функциональное Тестирование (protesting.ru)](http://www.protesting.ru/automation/functional.html)
+- [Советы и рекомендации по развёртыванию процесса автоматизация тестирования с нуля (habr.ru)](https://habr.com/ru/post/275171/)
+- [Что дает автоматизация тестирования (habr.ru)](https://habr.com/ru/company/simbirsoft/blog/477670/)
+- [Как выбрать оптимальный инструмент для автоматизированного тестирования (spark.ru)](https://spark.ru/user/127381/blog/72127/kak-vibrat-optimalnij-instrument-dlya-avtomatizirovannogo-testirovaniya)
+- [Вебинар Kolesa Upgrade «Как организовать процесс автоматизированного тестирования» (youtube.com)](https://www.youtube.com/watch?v=zbswap91fqg)
