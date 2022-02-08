@@ -22,7 +22,8 @@ ____
 5. Дождаться появления модального окна
 6. Убедиться, что это нужный нам товар, проверив текст
    «Blouse» внутри модального окна
-  
+
+![Gif](https://github.com/dumbkiddo/Kolesa-Upgrade-QA/blob/lesson5/%D0%A3%D1%80%D0%BE%D0%BA%205%20-%20%D0%9B%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B/CheckBlouse.gif)
 
 ### Cайт - https://new-master-kr.kolesa-team.org/
 
@@ -46,3 +47,4 @@ ____
   - Цена - 50 000
 4. Нажать на "Поиск"
 5. Проверить, что первая карточка с квартирой подходит под введенные параметры 
+![Gif](https://github.com/dumbkiddo/Kolesa-Upgrade-QA/blob/lesson5/%D0%A3%D1%80%D0%BE%D0%BA%205%20-%20%D0%9B%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B8%20%D1%81%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B/SearchFlatForRent.gif)
